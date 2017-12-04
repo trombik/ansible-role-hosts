@@ -1,3 +1,7 @@
+## Release 1.2.1
+
+* 355106d [bugfix] Update rubocop to the latest (#1)
+
 ## Release 1.2.0
 
 * a505444 [feature] support list of extra host name for 127.0.0.1 (#11)
