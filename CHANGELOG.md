@@ -1,3 +1,7 @@
+## Release 2.0.1
+
+* b313b60 bugfix: QA
+
 ## Release 2.0.0
 
 Python 2.x has been dropped. If you need python 2.x, use previous version.
